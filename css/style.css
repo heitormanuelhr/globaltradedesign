@@ -86,3 +86,13 @@ section ul, section p {
   margin-bottom: 12px;
   font-size: 17px;
 }
+
+.portfolio-link {
+  color: #0A2F52;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.portfolio-link:hover {
+  text-decoration: underline;
+}
