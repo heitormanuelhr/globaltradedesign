@@ -96,3 +96,10 @@ section ul, section p {
 .portfolio-link:hover {
   text-decoration: underline;
 }
+
+.social-icon {
+  width: 28px;
+  margin: 0 8px;
+  vertical-align: middle;
+}
+
